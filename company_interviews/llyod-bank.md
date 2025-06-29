@@ -55,6 +55,11 @@
 - How do services discover and communicate with each other?
 - What supporting systems are typically used (e.g., Config Server, Service Registry)?
 
+## 🧩 Coding Questions
+- Find second distinct number from a list of integers?
+- Merge two sorted arrays.
+
+
 ## 🔍 RCA Analysis – Crash/Performance Issue
 - What steps do you follow when your application crashes or faces performance issues?
 - How do you perform a Root Cause Analysis (RCA)?
