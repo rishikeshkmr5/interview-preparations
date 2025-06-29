@@ -3,10 +3,12 @@
 ## 🐳 Docker and Its Use Case
 - What is Docker and how does it work?
 - What are the use cases of Docker in real-world applications?
+- What is the overall structure of a docker file. Explain it.
 
 ## ☸️ Kubernetes Architecture
 - Explain the architecture of Kubernetes.
 - What are the core components of Kubernetes and their responsibilities?
+- In a Kubernetes YAML manifest, what are the different kind: field ? E.g., Pod, Service, Deployment, etc.
 
 ## 🏗️ Project Details and HLD Components
 - Describe your project architecture and key components in the high-level design.
@@ -36,6 +38,8 @@
 - What is a Kafka consumer group?
 - How does Kafka handle message delivery in a consumer group?
 - What are potential pitfalls when using multiple consumer groups?
+- Suppose there are 300 duplicate messages on the topic. The consumer consumes the messages and sends notification email. How to avoid sending the duplicate emails
+- If the no. of consumers in a consumer group are more than the no. of partitions, what happens to the additional consumers?
 
 ## 🗃️ NoSQL vs SQL – Use Cases
 - What are the differences between SQL and NoSQL databases?
